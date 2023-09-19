@@ -4,6 +4,7 @@ Predicción de vida útil remanente (RUL) de motores
 NOTA: El repositorio contiene un informe a nivel general así como diferentes ANEXOS con el código de cada sección.
 
 ## Contenido:
+INFORME GENERAL  
 ANEXO A - EDA  
 ANEXO B - IMPUTACIÓN  RUL  
 ANEXO C - TRANSFORMACIÓN Y SELECCIÓN DE VARIABLES  
